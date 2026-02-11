@@ -17,7 +17,7 @@ A web-based **Diet Recommendation System** that generates **personalized diet pl
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js
-- **Styling:** CSS
+- **Styling:** Tailwindcss
 - **Build Tool:** Vite
 - **Deployment:** Netlify
 
