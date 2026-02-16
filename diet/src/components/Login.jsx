@@ -22,8 +22,8 @@ const Login = ({ onBack, onSuccess }) => {
   }
 
   return (
-    <div className="min-h-screen bg-transparent px-4">
-      <div className="fixed left-1/2 top-4 z-50 w-full max-w-md -translate-x-1/2 px-4">
+    <div className="flex flex-1 items-center justify-center px-4 py-8">
+      <div className="w-full max-w-md">
         <form
           onSubmit={handleSubmit}
           className="w-full rounded-2xl border border-white/20 bg-white/60 p-6 text-slate-900 shadow-lg backdrop-blur-sm"
